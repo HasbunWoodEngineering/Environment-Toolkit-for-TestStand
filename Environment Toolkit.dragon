@@ -1,0 +1,23 @@
+[project]
+labview-version = 2025
+vipc = ""
+
+[nipm]
+
+[vipm]
+
+[vipm.dependencies]
+oglib_file = "6.0.2.28"
+jki_lib_caraya = "1.4.4.148"
+wiresmith_technology_lib_g_cli = "3.0.1.98"
+lvos_lib_caraya_cli_extension = "2.0.0.7"
+wovalab_lib_antidoc = "3.1.0.830"
+wovalab_lib_antidoc_add_on_labview_project_documentation = "3.0.1.282"
+hasbun_wood_engineering_lib_conditional_disable_symbol_setter_for_labview = "1.1.1.1"
+sas_workshops_lib_blue_formatter_for_labview = "4.0.1.981"
+wovalab_lib_antidoc_cli = "3.0.1.98"
+sas_workshops_lib_lvbuildspec_for_g_cli = "1.2.1.104"
+sas_workshops_lib_vipb_builder_for_g_cli = "1.1.6.46"
+oglib_error = "6.0.0.26"
+delacor_lib_dqmh_toolkit = "7.1.1.1528"
+delacor_lib_qmh = "7.1.1.1528"
