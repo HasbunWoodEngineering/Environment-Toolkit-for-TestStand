@@ -102,7 +102,7 @@ If you only intend to use the GUI, install the setup from the [latest release](h
 
 ### CLI / DQMH Module User
 
-If you intend to use the CLI or integrate the DQMH module directly into your own VIs, install the package via [vipm.io](vimp.io):
+If you intend to use the CLI or integrate the DQMH module directly into your own VIs, install the package via [vipm.io](https://www.vipm.io/package/hasbun_wood_engineering_lib_environment_toolkit_for_teststand):
 - The installer places the core VI ```env-toolkit.vi``` in ```<LabVIEW>\vi.lib\G CLI Tools```, so it can be invoked as shown in [the CLI section above](#cli).
 - A palette containing all relevant VIs and controls from the DQMH module is added to the Addons folder.
 
